@@ -1,0 +1,12 @@
+.UploadFileButton_{
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 150px;
+        background: #097464;
+        border: none;
+        color: white;
+        padding: 5px;
+        margin: 40px;
+        margin-top: 20px;
+}

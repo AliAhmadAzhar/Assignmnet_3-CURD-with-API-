@@ -1,0 +1,53 @@
+.UpdateForm{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 500px;
+    background-color:aliceblue;
+    border: 2px solid #097266;
+    border-radius: 15px;
+}
+.AddproductTopButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 150px;
+    background: #097464;
+    border: none;
+    color: white;
+    padding: 5px;
+    margin: 40px;
+  }
+  
+.FormLabel{
+    color: black;
+    text-shadow: none;
+}
+
+.flex{
+
+    margin: 5px;
+    width: 60%;
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+
+}
+input{
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.FormButton{
+    font-weight: bold;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+    background-color: #097464;
+    outline: none;
+    color: white;
+    width: 19%;
+}
